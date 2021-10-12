@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bomobit\.gradle\caches\transforms-3\036656c9d2b9caf85993a26dda1b5ad9\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\733091bf69992a7338bd0b23299c3e25\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\0ed12c5e9ec9291a60cacbd11bd48c59\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\5e5a972af9d611343e0203420478913f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\bomobit\.gradle\caches\transforms-3\ff1c4e2a4ac3d35a659bc63a154756ab\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\bomobit\.gradle\caches\transforms-3\c5c92ab6402d7dc67c07379c8b8d8f04\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\d5f06feba0eda55fc79603cc730010a1\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\bb8509f847e2c49f4a0b66cedf264b53\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\99818ded764f187f320f7ff3d14d25d1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\e0ea2880a2f8960c24c2293707450259\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bomobit\.gradle\caches\transforms-3\d9572d45dfb89c0893e68dc9595e49fb\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\cfd612c49fee293873aefa7b6bbe9f83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\9dbb98c1c7e83c4e2a7f6d9d1372e80d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\2b74cba77fd615ebe3218dd0cad260ef\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\db3a7e581369f1d6ccde0f3f3e1ec20c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\070b92aa82e868e01b3a8bdd6b4a015c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\280093d957ae2a01dd95a12a744693dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\6356f618f77c3da67d26b2e4309b1564\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\bomobit\.gradle\caches\transforms-3\323c7cd01e8dcf5c7684dbb5936c0f4c\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\c39631c551799b1650c6359b7db9d6a7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\4e5cb1bb224afa8edca9ea0255baad77\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\ce5dd9f328da3a1035c76a9293473461\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\69cc6a87b758946d0aa7fafa34aa6093\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\4cd084ba1a1ccefc083b061a6124cf45\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\8c2044fa9c06fd4ec87e6f652acfcf55\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\b84a8d269d9831db4ac038d8bbba10ee\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\0b9a3b0da2c4822f40ed666fa5ab3d83\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\5f3d2b53e7cb879dd19878fcecddfdf8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\d219bcee43c44d3051c0cf48baf215e1\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\3ed56a88da9b84cce553771f751d3ae2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\c4ec421140376873dae73b17f003ee89\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\e6bd84b70d1b8f775d98c33221f541d9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\98e938a1262a9436fa54e0d1e43963ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\80bf2ffa8ea6665fc2f7f45c1391d7a5\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\95e2c58e98139371daf88a8da8569d2a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bomobit\.gradle\caches\transforms-3\036656c9d2b9caf85993a26dda1b5ad9\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bomobit\.gradle\caches\transforms-3\036656c9d2b9caf85993a26dda1b5ad9\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\733091bf69992a7338bd0b23299c3e25\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\733091bf69992a7338bd0b23299c3e25\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\bomobit\.gradle\caches\transforms-3\323c7cd01e8dcf5c7684dbb5936c0f4c\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\bomobit\.gradle\caches\transforms-3\323c7cd01e8dcf5c7684dbb5936c0f4c\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\b84a8d269d9831db4ac038d8bbba10ee\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\b84a8d269d9831db4ac038d8bbba10ee\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\bomobit\.gradle\caches\transforms-3\323c7cd01e8dcf5c7684dbb5936c0f4c\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:12:9-52
+	android:name
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:11:9-63
+activity#com.example.sentimentalism.MainActivity
+ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bomobit\.gradle\caches\transforms-3\036656c9d2b9caf85993a26dda1b5ad9\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bomobit\.gradle\caches\transforms-3\036656c9d2b9caf85993a26dda1b5ad9\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\733091bf69992a7338bd0b23299c3e25\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\733091bf69992a7338bd0b23299c3e25\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\0ed12c5e9ec9291a60cacbd11bd48c59\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\0ed12c5e9ec9291a60cacbd11bd48c59\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\5e5a972af9d611343e0203420478913f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\5e5a972af9d611343e0203420478913f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\bomobit\.gradle\caches\transforms-3\ff1c4e2a4ac3d35a659bc63a154756ab\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\bomobit\.gradle\caches\transforms-3\ff1c4e2a4ac3d35a659bc63a154756ab\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\bomobit\.gradle\caches\transforms-3\c5c92ab6402d7dc67c07379c8b8d8f04\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\bomobit\.gradle\caches\transforms-3\c5c92ab6402d7dc67c07379c8b8d8f04\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\d5f06feba0eda55fc79603cc730010a1\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\d5f06feba0eda55fc79603cc730010a1\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\bb8509f847e2c49f4a0b66cedf264b53\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\bb8509f847e2c49f4a0b66cedf264b53\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\99818ded764f187f320f7ff3d14d25d1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\99818ded764f187f320f7ff3d14d25d1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\e0ea2880a2f8960c24c2293707450259\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\e0ea2880a2f8960c24c2293707450259\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bomobit\.gradle\caches\transforms-3\d9572d45dfb89c0893e68dc9595e49fb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bomobit\.gradle\caches\transforms-3\d9572d45dfb89c0893e68dc9595e49fb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\cfd612c49fee293873aefa7b6bbe9f83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\cfd612c49fee293873aefa7b6bbe9f83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\9dbb98c1c7e83c4e2a7f6d9d1372e80d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\9dbb98c1c7e83c4e2a7f6d9d1372e80d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\2b74cba77fd615ebe3218dd0cad260ef\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\2b74cba77fd615ebe3218dd0cad260ef\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\db3a7e581369f1d6ccde0f3f3e1ec20c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\db3a7e581369f1d6ccde0f3f3e1ec20c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\070b92aa82e868e01b3a8bdd6b4a015c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\070b92aa82e868e01b3a8bdd6b4a015c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\280093d957ae2a01dd95a12a744693dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\280093d957ae2a01dd95a12a744693dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\6356f618f77c3da67d26b2e4309b1564\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\6356f618f77c3da67d26b2e4309b1564\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\bomobit\.gradle\caches\transforms-3\323c7cd01e8dcf5c7684dbb5936c0f4c\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\bomobit\.gradle\caches\transforms-3\323c7cd01e8dcf5c7684dbb5936c0f4c\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\c39631c551799b1650c6359b7db9d6a7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\c39631c551799b1650c6359b7db9d6a7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\4e5cb1bb224afa8edca9ea0255baad77\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\4e5cb1bb224afa8edca9ea0255baad77\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\ce5dd9f328da3a1035c76a9293473461\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\ce5dd9f328da3a1035c76a9293473461\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\69cc6a87b758946d0aa7fafa34aa6093\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\69cc6a87b758946d0aa7fafa34aa6093\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\4cd084ba1a1ccefc083b061a6124cf45\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\4cd084ba1a1ccefc083b061a6124cf45\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\8c2044fa9c06fd4ec87e6f652acfcf55\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\8c2044fa9c06fd4ec87e6f652acfcf55\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\b84a8d269d9831db4ac038d8bbba10ee\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bomobit\.gradle\caches\transforms-3\b84a8d269d9831db4ac038d8bbba10ee\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\0b9a3b0da2c4822f40ed666fa5ab3d83\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\0b9a3b0da2c4822f40ed666fa5ab3d83\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\5f3d2b53e7cb879dd19878fcecddfdf8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\5f3d2b53e7cb879dd19878fcecddfdf8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\d219bcee43c44d3051c0cf48baf215e1\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bomobit\.gradle\caches\transforms-3\d219bcee43c44d3051c0cf48baf215e1\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\3ed56a88da9b84cce553771f751d3ae2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bomobit\.gradle\caches\transforms-3\3ed56a88da9b84cce553771f751d3ae2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\c4ec421140376873dae73b17f003ee89\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\c4ec421140376873dae73b17f003ee89\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\e6bd84b70d1b8f775d98c33221f541d9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\e6bd84b70d1b8f775d98c33221f541d9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\98e938a1262a9436fa54e0d1e43963ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\98e938a1262a9436fa54e0d1e43963ca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\80bf2ffa8ea6665fc2f7f45c1391d7a5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\80bf2ffa8ea6665fc2f7f45c1391d7a5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\95e2c58e98139371daf88a8da8569d2a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bomobit\.gradle\caches\transforms-3\95e2c58e98139371daf88a8da8569d2a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bomobit\Desktop\chaquopy_app\app\src\main\AndroidManifest.xml

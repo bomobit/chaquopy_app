@@ -1,0 +1,4 @@
+com/example/sentimentalism/MainActivity.java
+ com.example.sentimentalism.MainActivity
+com/example/sentimentalism/BuildConfig.java
+ com.example.sentimentalism.BuildConfig
